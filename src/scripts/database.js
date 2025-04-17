@@ -1,5 +1,5 @@
 const listaDeSobremesas = [
-  {
+  { 
     nome: "Bolo de morango",
     descricao:
       "O morango, além de ser saudável, é muito apreciado, por isso muitos bolos são feitos usando essa fruta no recheio, na massa e na cobertura.",
